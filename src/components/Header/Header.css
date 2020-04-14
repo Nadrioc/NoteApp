@@ -1,0 +1,30 @@
+.header { 
+	display: flex;
+	justify-content: space-between;
+	margin: 10px 25px;
+	align-items: center;
+}
+
+.button-link {
+	text-decoration: none;
+	color: #000000;
+	font-weight: 500;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.home-link {
+	text-decoration: none;
+	color: #000000;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.button-link:hover {
+	text-decoration: underline;
+}
+
+.action-button {
+	margin-right: 20px;
+	color: #2C65FF;
+}

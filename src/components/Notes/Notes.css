@@ -1,0 +1,25 @@
+.text-center {
+	text-align: center;
+}
+
+.note-link {
+	width: 60vw;
+}
+
+.note-container {
+	display: flex;
+	align-items: center;
+}
+
+.delete-button {
+	margin-bottom: 10px;
+  margin-top: 25px;
+  cursor: pointer;
+  width: 30px;
+}
+
+.body-text{
+	white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
