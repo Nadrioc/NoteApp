@@ -8,7 +8,7 @@ import Login from './components/Login/Login';
 import * as auth from './services/auth';
 
 class App extends Component {
-
+  //here is a note
   state = {
     isAuthenticated: false,
     ready: false,
