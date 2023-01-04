@@ -7,6 +7,7 @@ import EditNote from './components/Forms/EditNote';
 import Login from './components/Login/Login';
 import * as auth from './services/auth';
 //hello
+// hi there
 class App extends Component {
 
   state = {
