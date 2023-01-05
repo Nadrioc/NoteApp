@@ -26,7 +26,6 @@ class App extends Component {
       ready: true,
     })
     // await auth.doAuth("jerome", "gattaca")
-    // await auth.doAuth("jerome", "gattaca")
   }
 
   login = async (username, password) => {
