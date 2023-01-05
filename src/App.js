@@ -6,10 +6,6 @@ import NewNote from './components/Forms/NewNote';
 import EditNote from './components/Forms/EditNote';
 import Login from './components/Login/Login';
 import * as auth from './services/auth';
-//hello
-// hi there
-// new changes
-// even more changes
 
 class App extends Component {
 
@@ -29,7 +25,6 @@ class App extends Component {
     this.setState({
       ready: true,
     })
-    // await auth.doAuth("jerome", "gattaca")
     // await auth.doAuth("jerome", "gattaca")
   }
 
